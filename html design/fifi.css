@@ -1,0 +1,95 @@
+.hoshi{
+    background-image: url(bead.jpg);
+    height: 200px;
+
+}
+body{
+    font-family: serif;
+}
+nav{
+    height: 50px;
+}
+.nav-bar ul{
+    list-style:none;
+padding:10px;
+
+}
+.nav-bar a{
+text-decoration:none;
+color:palevioletred;
+padding:20px;
+display:inline-block;
+}
+.nav-bar li{
+display:inline;
+}
+.logo{
+    border-radius: 50%;
+    border: 1rem solid white;
+    height: 50px;
+    width: 50px;
+    margin-top: 20px;
+}
+hr{
+    color: black;
+}
+input{
+    border-radius:10px;
+}
+button{
+    border: 10px;
+    border-radius:10px;
+    height: 20px;
+    width: 100px;
+}
+.btn-1{
+    background-color: pink;
+}
+.btn-2{
+    background-color: #F55887;
+}
+.custom{
+    background-color:#F55887;
+}
+.flower{
+    width: 250px;
+    float: left;
+    padding: 0px 15px;
+}
+.my{
+    width: 200px;
+    float: right;
+    padding: 0px 15px;
+}
+footer{
+    background-color: #A83D5D;
+}
+.home{
+    width: 500px;
+    margin-left: 2px;
+    padding-left: 20px;
+}
+.over{
+padding-left: 200px;
+
+}
+.text{
+    text-align: center;
+    margin-top: 50px;
+}
+.for{
+    margin-left: 250px;
+}
+.bg{
+    width: 100%;
+    height: 450px;
+}
+.cust{
+    text-align:center;
+    color: palevioletred;
+}
+.cus{
+    color: #F55887;
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
